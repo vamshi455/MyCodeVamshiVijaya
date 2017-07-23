@@ -1,2 +1,0 @@
-# MyCodeVamshiVijaya
-Personal Code Development
