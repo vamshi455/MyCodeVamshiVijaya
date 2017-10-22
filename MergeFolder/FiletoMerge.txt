@@ -7,3 +7,5 @@ Something from macs
 <<<<<<< HEAD
 
 =========changes from Mac=======
+
+=========changes from windows======
