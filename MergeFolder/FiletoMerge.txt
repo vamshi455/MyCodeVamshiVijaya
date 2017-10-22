@@ -3,3 +3,6 @@ Updates from Windows system
 =======
 Something from macs
 >>>>>>> 829ec0ae01ae6868e20120dc258ce8515d7b8f3c
+
+=======================================================
+CHANGES FROM WINDOWS
